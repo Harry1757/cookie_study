@@ -1,1 +1,1 @@
-# authstates
+# im-sprint-auth-cookie
